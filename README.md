@@ -9,9 +9,12 @@ I pretty much only contribute to private repositories within [Tamewater](https:/
 <a href="https://github.com/tamewater/Public_GMOD_Addon-Merger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamewater&repo=Public_GMOD_Addon-Merger&theme=dark" />
 </a>
+<a href="https://github.com/lilkingjr1/persman-10thMTN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lilkingjr1&repo=persman-10thMTN&theme=dark" />
+</a>
 <a href="https://github.com/peter-r-g/uMod.ScheduledMessages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.ScheduledMessages&theme=dark" />
 </a>
-<a href="https://github.com/lilkingjr1/persman-10thMTN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lilkingjr1&repo=persman-10thMTN&theme=dark" />
+<a href="https://github.com/peter-r-g/uMod.ScheduledMessages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.RulesManager&theme=dark" />
 </a>

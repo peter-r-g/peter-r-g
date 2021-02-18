@@ -1,5 +1,5 @@
 ### Hello 👋
-I pretty much only contribute to private repositories within [Tamewater](https://github.com/tamewater) currently so I don't have much to present publicly other than a couple random and dead projects.
+I pretty much only contribute to private repositories within [Tamewater](https://github.com/tamewater) currently so I don't have much to present publicly other than a couple random projects.
 
 ## My GitHub Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=peter-r-g&count_private=true&show_icons=true&theme=dark)<br>

@@ -15,6 +15,6 @@ I pretty much only contribute to private repositories within [Tamewater](https:/
 <a href="https://github.com/peter-r-g/uMod.ScheduledMessages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.ScheduledMessages&theme=dark" />
 </a>
-<a href="https://github.com/peter-r-g/uMod.ScheduledMessages">
+<a href="https://github.com/peter-r-g/uMod.RulesManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.RulesManager&theme=dark" />
 </a>

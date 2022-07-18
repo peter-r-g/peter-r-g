@@ -1,4 +1,4 @@
-### Hello 👋
+# Hello 👋
 Software engineer that likes games, networking, and moddability.
 
 ## My GitHub Stats

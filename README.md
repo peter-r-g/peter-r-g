@@ -1,24 +1,33 @@
 ### Hello 👋
+Software engineer that likes games, networking, and moddability.
+
 ## My GitHub Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=peter-r-g&count_private=true&show_icons=true&theme=dark)<br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=peter-r-g&count_private=true&show_icons=true&theme=dark)
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-r-g&layout=compact&theme=dark&langs_count=6)](https://github.com/peter-r-g/github-readme-stats)
 
-## Some fun public projects
-<a href="https://github.com/tamewater/Public_GMOD_Addon-Merger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamewater&repo=Public_GMOD_Addon-Merger&theme=dark" />
-</a>
-<a href="https://github.com/peter-r-g/CryoFall-Scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=CryoFall-Scripts&theme=dark" />
-</a>
-<a href="https://github.com/peter-r-g/CryoFall-InventoryExpansion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=CryoFall-InventoryExpansion&theme=dark" />
-</a>
-<a href="https://github.com/peter-r-g/Addon-Based-Testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=Addon-Based-Testing&theme=dark" />
-</a>
-<a href="https://github.com/peter-r-g/uMod.ScheduledMessages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.ScheduledMessages&theme=dark" />
-</a>
-<a href="https://github.com/peter-r-g/uMod.RulesManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peter-r-g&repo=uMod.RulesManager&theme=dark" />
-</a>
+## SandScript
+Interested in a language that can be embedded into your C# projects? Head over to my organization for SandScript and take a look [here](https://github.com/SandScript).
+
+## S&box
+Here for my S&box projects? Look below:
+* [SandScript.Sbox](https://github.com/peter-r-g/SandScript.Sbox) - [SandScript](https://github.com/SandScript) but edited to function within S&boxs limits.
+* [CodeItOut](https://github.com/peter-r-g/CodeItOut) - A coding puzzle game using [SandScript](https://github.com/SandScript).
+* [Sandbox](https://github.com/peter-r-g/Sandbox) - An edited Sandbox gamemode with a more refreshing UI made by [Oppossome](https://github.com/Oppossome) and more!
+* [Job Simulator](https://github.com/peter-r-g/SBox-Job-Simulator) - A simulation game of completing jobs and interacting in a world of many other players.
+
+## FiveM
+Here for my FiveM projects? Look below:
+* [FiveM Service Calls](https://github.com/peter-r-g/FiveM-servicecalls)
+* [FiveM Blip Manager](https://github.com/peter-r-g/FiveM-blipmanager)
+* [FiveM Prop Place](https://github.com/peter-r-g/FiveM-PropPlace)
+
+## Rust
+Here for my Rust plugins built with uMod? Look below:
+* [uMod Scheduled Messages](https://github.com/peter-r-g/uMod.ScheduledMessages)
+* [uMod Rules Manager](https://github.com/peter-r-g/uMod.RulesManager)
+
+## CryoFall
+Here for my CryoFall projects? Look below:
+* [CryoFall Scripts](https://github.com/peter-r-g/CryoFall-Scripts)
+* [CryoFall Auto Messags](https://github.com/peter-r-g/CryoFall-AutoMessages)
+* [CryoFall Inventory Expansion](https://github.com/peter-r-g/CryoFall-InventoryExpansion)

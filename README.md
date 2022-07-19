@@ -11,7 +11,8 @@ Interested in a language that can be embedded into your C# projects? Head over t
 ## S&box
 Here for my S&box projects? Look below:
 * [SandScript.Sbox](https://github.com/peter-r-g/SandScript.Sbox) - [SandScript](https://github.com/SandScript) but edited to function within S&boxs limits.
-* [CodeItOut](https://github.com/peter-r-g/CodeItOut) - A coding puzzle game using [SandScript](https://github.com/SandScript).
+* [Code It Out](https://github.com/peter-r-g/CodeItOut) - A coding puzzle game using [SandScript](https://github.com/SandScript).
+* [Rider Editor Tool](https://github.com/peter-r-g/Sbox.RiderEditorTool) - A tool addon that adds editor options to open the S&box solution within Rider.
 * [Sandbox](https://github.com/peter-r-g/Sandbox) - An edited Sandbox gamemode with a more refreshing UI made by [Oppossome](https://github.com/Oppossome) and more!
 * [Job Simulator](https://github.com/peter-r-g/SBox-Job-Simulator) - A simulation game of completing jobs and interacting in a world of many other players.
 

@@ -10,6 +10,7 @@ Interested in a language that can be embedded into your C# projects? Head over t
 
 ## S&box
 Here for my S&box projects? Look below:
+* [Custom Networking](https://github.com/peter-r-g/SBox-CustomNetworking) - A custom server and networking structure for S&box clients to connect to and play games.
 * [SandScript.Sbox](https://github.com/peter-r-g/SandScript.Sbox) - [SandScript](https://github.com/SandScript) but edited to function within S&boxs limits.
 * [Code It Out](https://github.com/peter-r-g/CodeItOut) - A coding puzzle game using [SandScript](https://github.com/SandScript).
 * [Rider Editor Tool](https://github.com/peter-r-g/Sbox.RiderEditorTool) - A tool addon that adds editor options to open the S&box solution within Rider.

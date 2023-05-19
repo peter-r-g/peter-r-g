@@ -10,6 +10,8 @@ Interested in a language that can be embedded into your C# projects? Head over t
 
 ## S&box
 Here for my S&box projects? Look below:
+* [Roslyn Analyzers](https://github.com/peter-r-g/Sbox-Analyzers) - A collection of Roslyn analyzers for checking S&box code.
+* [ECS](https://github.com/peter-r-g/Sbox-ECS) - An Entity Component System (ECS) implementation that works with S&box.
 * [NetBolt](https://github.com/Sbox-NetBolt) - A custom server and networking structure for S&box clients to connect to and play games.
 * [SandScript.Sbox](https://github.com/peter-r-g/SandScript.Sbox) - [SandScript](https://github.com/SandScript) but edited to function within S&boxs limits.
 * [Code It Out](https://github.com/peter-r-g/CodeItOut) - A coding puzzle game using [SandScript](https://github.com/SandScript).

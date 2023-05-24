@@ -9,7 +9,7 @@ Software engineer that likes games, networking, and moddability.
 Interested in a language that can be embedded into your C# projects? Head over to my organization for SandScript and take a look [here](https://github.com/SandScript).
 
 ## S&box
-Here for my S&box projects? Look below:
+Here for my S&box projects? Look below (I also work on projects for [ApeTavern](https://github.com/apetavern)):
 * [Entity Pools](https://github.com/peter-r-g/Sbox-EntityPools) - A pooling mechanism for entities, useful for situations where you are creating and deleting many entities with a limited lifespan.
 * [Roslyn Analyzers](https://github.com/peter-r-g/Sbox-Analyzers) - A collection of Roslyn analyzers for checking S&box code.
 * [ECS](https://github.com/peter-r-g/Sbox-ECS) - An Entity Component System (ECS) implementation that works with S&box.

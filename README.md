@@ -10,6 +10,8 @@ Interested in a language that can be embedded into your C# projects? Head over t
 
 ## S&box
 Here for my S&box projects? Look below (I also work on projects for [ApeTavern](https://github.com/apetavern)):
+* [Project Template Downloader](https://github.com/peter-r-g/Sbox-ProjectTemplateDownloader) - A tool to download S&box templates from GitHub.
+* [Icon Browser](https://github.com/peter-r-g/Sbox-IconBrowser) - An in-editor browser to see all material icons available in S&box tools.
 * [Entity Pools](https://github.com/peter-r-g/Sbox-EntityPools) - A pooling mechanism for entities, useful for situations where you are creating and deleting many entities with a limited lifespan.
 * [Roslyn Analyzers](https://github.com/peter-r-g/Sbox-Analyzers) - A collection of Roslyn analyzers for checking S&box code.
 * [ECS](https://github.com/peter-r-g/Sbox-ECS) - An Entity Component System (ECS) implementation that works with S&box.

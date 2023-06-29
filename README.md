@@ -8,6 +8,7 @@ Software engineer that likes games, networking, and moddability.
 ## S&box
 Here for my S&box projects? Look below (I also work on projects for [ApeTavern](https://github.com/apetavern)):
 * [NetBolt](https://github.com/Sbox-NetBolt) - A custom server and networking structure for S&box clients to connect to and play games.
+* [Coroutines](https://github.com/peter-r-g/Sbox-Coroutines) - A Unity-like coroutines library for S&box.
 * [Input Actions Generator](https://github.com/peter-r-g/Sbox-InputActionsGenerator) - A tool to generate C# for your S&box gamemode's input actions.
 * [Project Template Downloader](https://github.com/peter-r-g/Sbox-ProjectTemplateDownloader) - A tool to download S&box templates from GitHub.
 * [Icon Browser](https://github.com/peter-r-g/Sbox-IconBrowser) - An in-editor browser to see all material icons available in S&box tools.
